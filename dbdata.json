@@ -1,0 +1,42 @@
+{
+    "friends": [
+      {
+        "id": "1",
+        "name": "Akula Ravinder",
+        "picture": "./images/ravi2.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Kotesh Sakinala",
+        "picture": "./images/unknown.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Rahul Mahankali",
+        "picture": "./images/rahul.jpg"
+      },
+      {
+        "id": "4",
+        "name": "prakash",
+        "picture": "./images/prakash.jpg"
+      }
+    ],
+
+    "groups":[
+        {
+            "groupName": "React Group",
+            "imageUrl": "./images/gpicon.jpg'",
+            "description": "'All the new joiniees are in this group...'"
+          },
+          {
+            "groupName": "'New Group '",
+            "imageUrl": "'./images/gpicon.jpg'",
+            "description": "'New Members are adding to this new group...'"
+          },
+          {
+            "groupName": "'The Squad'",
+            "imageUrl": "'./images/gpicon.jpg'",
+            "description": "'The squad is ready to rock....'"
+          }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+  "user": [
+    {
+      "id": "shiva",
+      "name": "shivakumar",
+      "password": "1234",
+      "email": "shiva@gmail.com",
+      "state": "Delhi",
+      "gender": "male"
+    },
+    {
+      "id": "Raju",
+      "name": "RajuKumar",
+      "password": "5678",
+      "email": "Raju@gmail.com",
+      "state": "Telangana",
+      "gender": "male"
+    },
+    {
+      "id": "kb",
+      "name": "krishna",
+      "password": "0123",
+      "email": "kb@gmail.com",
+      "state": "",
+      "gender": "male"
+    },
+    {
+      "id": "2Bzb9e4",
+      "name": "",
+      "password": "",
+      "email": "",
+      "state": "",
+      "gender": "male"
+    },
+    {
+      "id": "ravi",
+      "name": "ravinder",
+      "password": "12345",
+      "email": "Ravi@gmail.com",
+      "state": "",
+      "gender": "male"
+    },
+    {
+      "id": "ravi ",
+      "name": "ravi",
+      "password": "0987",
+      "email": "ravi@gmail.com",
+      "state": "",
+      "gender": "male"
+    },
+    {
+      "id": "test5",
+      "name": "test",
+      "password": "12345",
+      "email": "test@gmail.com",
+      "state": "",
+      "gender": "male"
+    },
+    {
+      "id": "test10",
+      "name": "test",
+      "password": "1234",
+      "email": "test@gmail.com",
+      "state": "",
+      "gender": "male"
+    },
+    {
+      "id": "manoj",
+      "name": "manoj",
+      "password": "1234",
+      "email": "manoj@gmail.com",
+      "state": "",
+      "gender": "male"
+    }
+  ]
+}

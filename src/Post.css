@@ -1,0 +1,161 @@
+.user-container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 20px auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  background-color: #131212; 
+  padding: 20px;
+}
+
+.post-box {
+  padding: 16px;
+}
+.post{
+  color: white;
+}
+
+.user-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.user-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.user-photo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.user-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.user-icon {
+  padding: 10px;
+}
+.user-description {
+  color: #ddd;
+}
+
+.user-actions {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+}
+
+
+.user-actions button,
+.user-actions input {
+  margin-right: 10px;
+}
+
+.user-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px;
+  background-color: #eacd0e;
+  color: black;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+
+.user-image {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+input[type="text"] {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+#like{
+  background-color: #eacd0e;
+  color: #131212;
+  border-radius: 19px;
+}
+
+#comment {
+  background-color:  #eacd0e;
+  color: #060505;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.display-comments {
+  margin-top: 20px;
+  color: #ddd;
+}
+
+.user-container {
+  margin-bottom: 20px;
+}
+
+.user-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.user-info {
+  flex-grow: 1;
+  margin-left: 10px;
+}
+
+.user-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.video-container {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.user-video {
+  width: 100%;
+  height: auto;
+}
+
+.user-icon {
+  font-size: 24px;
+  color: #333;
+}
+
+.user-container:last-child {
+  margin-bottom: 0;
+}
+
+.user-info:last-child {
+  margin-bottom: 0;
+}
+
+.user-image:last-child {
+  margin-bottom: 0;
+}
+
+.user-video:last-child {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}

@@ -1,0 +1,69 @@
+/* Registration.css */
+
+.Registration-BGPIC {
+  background: url('C:\Users\moshivak\OneDrive - Capgemini\Desktop\React CaseStudy\casestudy\public\images\img4n.jpg') center center/cover no-repeat;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Registration-container {
+  background-color: rgba(242, 228, 228, 0.8);
+  padding: 20px;
+  border-radius: 15px;
+  width: 400px;
+  margin-top: 40px;
+  margin-right: 700px;
+}
+
+.Registration-header1 h1 {
+  font-size: 28px;
+  color: #000000;
+}
+
+.Registration-Body {
+  margin-top: 10px;
+}
+
+.Registration-elements {
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+.Registration-l1 {
+  margin-bottom: 0px;
+  display: block;
+  font-size: 14px;
+  color: #333;
+}
+
+.Registration-input-field {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.Registration-radio-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Registration-submit-button {
+  background-color: #0cbef4;
+  color: rgb(9, 9, 9);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.Registration-submit-button:hover {
+  background-color: #7ad4ef;
+}
